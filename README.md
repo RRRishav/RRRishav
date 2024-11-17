@@ -1,5 +1,4 @@
-<h1 align="center">
-  <img src="/api/placeholder/150/50" alt="wave" /> 
+
   Hi, I'm Rishav
 </h1>
 <p align="center">
@@ -20,9 +19,13 @@ Transforming ideas into elegant solutions through code and financial innovation
 
 
 🎓 Computer Science Student at TIET, Patiala
+
 💡 Passionate about Algorithms, Financial Markets, and Machine Learning
+
 🚀 Building the future with modern web technologies
+
 📊 Exploring the intersection of technology and finance
+
 🌱 Currently deepening my knowledge in Derivatives Trading and ML Algorithms
 
 🛠️ Tech Arsenal
@@ -79,12 +82,9 @@ const currentLearning = {
 };
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-👋-blue" alt="Thanks Badge"/>
-</p>
-<p align="center">
-  <i>⭐️ From RRRishav (Star the repos if you like them!)</i>
-</p>
+
+  ⭐️ From RRRishav (Star the repos if you like them!
+
 <!---
 RRRishav/RRRishav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
