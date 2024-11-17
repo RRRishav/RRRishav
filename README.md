@@ -1,9 +1,9 @@
+# Hi, I'm Rishav 👋
 
-  Hi, I'm Rishav
-</h1>
 <p align="center">
-  <img src="https://imgs.search.brave.com/WJirv45Lhk9toS2wKZnVTTAq4nMUkiuLo3PFcijYMq8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0Q0/RDEyQVFGOFdjZTFz/bzJKTmcvYXJ0aWNs/ZS1jb3Zlcl9pbWFn/ZS1zaHJpbmtfNjAw/XzIwMDAvMC8xNjY5/MjEzMDg0ODYzP2U9/MjE0NzQ4MzY0NyZ2/PWJldGEmdD1iS29R/WV9fLXUwWVJEVEJz/OWZQcDFCYjlJMzEx/SkZOWlB2NmpxZTFY/S0hJ.jpeg" alt="banner"/>
+  <img src="https://source.unsplash.com/600x300/?technology,code" alt="banner" width="100%" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Web_Development-🌐-blue" />
   <img src="https://img.shields.io/badge/Financial_Markets-📈-green" />
@@ -11,44 +11,34 @@
   <img src="https://img.shields.io/badge/DSA-⚡-yellow" />
 </p>
 
+---
 
+## 💫 About Me
 
-💫 About Me
+Transforming ideas into elegant solutions through code and financial innovation.
 
-Transforming ideas into elegant solutions through code and financial innovation
+- 🎓 **Computer Science Student** at TIET, Patiala
+- 💡 Passionate about **Algorithms**, **Financial Markets**, and **Machine Learning**
+- 🚀 Building the future with modern web technologies
+- 📊 Exploring the intersection of technology and finance
+- 🌱 Currently deepening my knowledge in **Derivatives Trading** and **ML Algorithms**
 
+---
+ 🛠️ Tech Arsenal
 
-🎓 Computer Science Student at TIET, Patiala
+ 💻 Programming Languages
 
-💡 Passionate about Algorithms, Financial Markets, and Machine Learning
-
-🚀 Building the future with modern web technologies
-
-📊 Exploring the intersection of technology and finance
-
-🌱 Currently deepening my knowledge in Derivatives Trading and ML Algorithms
-
-🛠️ Tech Arsenal
-
-💻 Programming Languages
-
+javascript
 const languages = {
     expert: ["C++", "JavaScript", "C"],
     intermediate: ["Python", "TypeScript"],
     learning: ["Rust", "Solidity"]
 };
 
+
 🌐 Web Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
+<p align="left"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
 📊 Financial Markets
-
 Derivatives Trading
 Market Analysis
 Risk Management
@@ -67,13 +57,8 @@ class Skills {
     };
 };
 
-<p align="center">
-  <img width="48%" src="/api/placeholder/400/200" alt="GitHub Stats" />
-  <img width="48%" src="/api/placeholder/400/200" alt="GitHub Streak" />
-</p>
+<p align="center"> <img width="100%" src="https://source.unsplash.com/800x400/?data,analytics" alt="GitHub Stats" /> </p> <p align="center"> <img width="100%" src="https://source.unsplash.com/800x400/?coding,development" alt="GitHub Streak" /> </p>
 
-
-🎯 Current Focus
 
 const currentLearning = {
     technical: ["System Design", "Blockchain", "Advanced ML Algorithms"],
@@ -82,8 +67,8 @@ const currentLearning = {
 };
 
 
+From RRRishav (Star the repos if you like them!)
 
-  ⭐️ From RRRishav (Star the repos if you like them!
 
 <!---
 RRRishav/RRRishav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
