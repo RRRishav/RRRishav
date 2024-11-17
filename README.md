@@ -2,7 +2,7 @@
   Hi, I'm Rishav
 </h1>
 <p align="center">
-  <img src="/api/placeholder/600/300" alt="banner"/>
+  <img src="https://imgs.search.brave.com/WJirv45Lhk9toS2wKZnVTTAq4nMUkiuLo3PFcijYMq8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0Q0/RDEyQVFGOFdjZTFz/bzJKTmcvYXJ0aWNs/ZS1jb3Zlcl9pbWFn/ZS1zaHJpbmtfNjAw/XzIwMDAvMC8xNjY5/MjEzMDg0ODYzP2U9/MjE0NzQ4MzY0NyZ2/PWJldGEmdD1iS29R/WV9fLXUwWVJEVEJz/OWZQcDFCYjlJMzEx/SkZOWlB2NmpxZTFY/S0hJ.jpeg" alt="banner"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Web_Development-🌐-blue" />
