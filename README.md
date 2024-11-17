@@ -1,7 +1,7 @@
 # Hi, I'm Rishav 👋
 
 <p align="center">
-  <img src="https://source.unsplash.com/600x300/?technology,code" alt="banner" width="100%" />
+  <img src="https://imgs.search.brave.com/spz11uVr6CEAnlYhLWvLQNbvCxxFzfmH_O0i0nvs6_o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/c2Vhci5jaC9mYXZp/Y29uLnN2Zw" alt="banner"  />
 </p>
 
 <p align="center">
@@ -57,7 +57,6 @@ class Skills {
     };
 };
 
-<p align="center"> <img width="100%" src="https://source.unsplash.com/800x400/?data,analytics" alt="GitHub Stats" /> </p> <p align="center"> <img width="100%" src="https://source.unsplash.com/800x400/?coding,development" alt="GitHub Streak" /> </p>
 
 
 const currentLearning = {
