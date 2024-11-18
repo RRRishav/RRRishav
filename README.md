@@ -1,72 +1,128 @@
-# Hi, I'm Rishav 👋
-
-<p align="center">
-  <img src="https://imgs.search.brave.com/spz11uVr6CEAnlYhLWvLQNbvCxxFzfmH_O0i0nvs6_o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/c2Vhci5jaC9mYXZp/Y29uLnN2Zw" alt="banner"  />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Web_Development-🌐-blue" />
-  <img src="https://img.shields.io/badge/Financial_Markets-📈-green" />
-  <img src="https://img.shields.io/badge/Machine_Learning-🤖-orange" />
-  <img src="https://img.shields.io/badge/DSA-⚡-yellow" />
-</p>
-
----
-
-## 💫 About Me
-
-Transforming ideas into elegant solutions through code and financial innovation.
-
-- 🎓 **Computer Science Student** at TIET, Patiala
-- 💡 Passionate about **Algorithms**, **Financial Markets**, and **Machine Learning**
-- 🚀 Building the future with modern web technologies
-- 📊 Exploring the intersection of technology and finance
-- 🌱 Currently deepening my knowledge in **Derivatives Trading** and **ML Algorithms**
-
----
- 🛠️ Tech Arsenal
-
- 💻 Programming Languages
-
-javascript
-const languages = {
-    expert: ["C++", "JavaScript", "C"],
-    intermediate: ["Python", "TypeScript"],
-    learning: ["Rust", "Solidity"]
+<div align="center">
+Hello World! I'm Rishav 👋
+Show Image
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</div>
+🚀 Quick Overview
+javascriptCopyconst rishav = {
+    role: "Computer Science Student @ TIET",
+    code: ["C++", "JavaScript", "Python", "TypeScript"],
+    interests: ["Financial Markets", "Machine Learning", "Web Development"],
+    currentlyLearning: ["Rust", "Solidity", "Advanced ML Algorithms"],
+    challenge: "Building a quantum-resistant crypto trading algorithm",
+    funFact: "I can explain derivatives while solving dynamic programming problems! 📈"
 };
+💫 What Sets Me Apart
 
+🎯 Unique Blend: Merging financial markets expertise with cutting-edge tech
+🌟 Problem Solver: Advanced DSA practitioner with a focus on optimization
+🔮 Innovation Driver: Building next-gen trading systems with ML integration
+📚 Continuous Learner: Always exploring the intersection of finance and tech
 
-🌐 Web Technologies
-<p align="left"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
-📊 Financial Markets
+🛠️ Tech Arsenal
+<details>
+<summary>💻 Programming & Tools</summary>
+Languages
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Web Technologies
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Tools & Platforms
+Show Image
+Show Image
+Show Image
+Show Image
+</details>
+<details>
+<summary>📈 Financial Markets Expertise</summary>
+Trading & Analysis
+
 Derivatives Trading
-Market Analysis
+Technical Analysis
 Risk Management
 Portfolio Optimization
-Algorithmic Trading
+Algorithmic Trading Systems
 
+Quantitative Skills
 
-🧮 Data Structures & Algorithms
+Statistical Analysis
+Time Series Forecasting
+Options Pricing Models
+Risk Metrics Calculation
+Market Microstructure
 
-class Skills {
+</details>
+<details>
+<summary>🎯 DSA & Problem Solving</summary>
+cppCopyclass ProblemSolvingApproach {
+private:
     vector<string> expertise = {
         "Dynamic Programming",
         "Graph Algorithms",
-        "Tree Traversals",
-        "Advanced Data Structures"
+        "Advanced Data Structures",
+        "Tree Algorithms",
+        "Computational Geometry"
     };
+    
+    int solvedProblems = 500plus;
+    string favoriteAlgorithm = "Segment Trees";
+    
+public:
+    void dailyRoutine() {
+        solveNewProblem();
+        learnNewConcept();
+        implementAlgorithm();
+        optimize();
+    }
 };
-
-
-
-const currentLearning = {
-    technical: ["System Design", "Blockchain", "Advanced ML Algorithms"],
-    financial: ["Options Strategies", "Quantitative Analysis"],
-    personal: ["Building in Public", "Technical Writing"]
+</details>
+📊 GitHub Stats
+<div align="center">
+Show Image
+Show Image
+</div>
+🎯 Current Focus
+typescriptCopyconst currentLearning = {
+    technical: [
+        "Quantum Computing Basics",
+        "Advanced System Design",
+        "Blockchain Development"
+    ],
+    financial: [
+        "Options Greeks",
+        "Market Making Strategies",
+        "High-Frequency Trading"
+    ],
+    projects: [
+        "ML-powered Trading Bot",
+        "DeFi Portfolio Manager",
+        "Real-time Market Scanner"
+    ]
 };
+🤝 Let's Connect!
+If you're interested in:
 
+🤖 Building innovative trading systems
+📊 Discussing market analysis and strategies
+💻 Collaborating on open-source projects
+🎯 Problem-solving and algorithms
 
-From RRRishav (Star the repos if you like them!)
+Feel free to reach out! Let's create something amazing together.
+
+<div align="center">
+"Markets are never wrong – opinions often are." - Jesse Livermore
+⭐️ Star my repositories if you find them interesting!
+</div>
 
 
 <!---
