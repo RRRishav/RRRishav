@@ -6,10 +6,6 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
 
@@ -97,16 +93,6 @@ const rishav = {
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-name-1&theme=radical)](https://github.com/your-username/project-name-1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-name-2&theme=radical)](https://github.com/your-username/project-name-2)
-
-</div>
-
----
 
 ## 🌟 What I'm up to
 
@@ -151,12 +137,6 @@ const currentActivities = {
 
 ---
 
-<div align="center">
-  
-  ### 🎵 Currently Vibing To
-  [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
-
-</div>
 
 ---
 
