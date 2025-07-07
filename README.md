@@ -27,7 +27,7 @@ const rishav = {
 - 🌱 I'm currently learning **Advanced React Patterns & Microservices**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **MERN Stack, Web Development, or anything tech-related**
-- 📫 How to reach me: **[Your Email](mailto:rishav6787@gmail.com)**
+- 📫 How to reach me: (mailto:rishav6787@gmail.com)**
 - ⚡ Fun fact: **I can turn coffee into code!** ☕➡️💻
 
 ---
@@ -99,13 +99,6 @@ const currentActivities = {
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" alt="Activity Graph" />
-
-</div>
 
 ---
 
@@ -119,15 +112,6 @@ const currentActivities = {
 
 ---
 
-## 🎯 Goals for 2025
-
-- 🔥 Contribute to **10+ Open Source Projects**
-- 🚀 Build **3 Major Full-Stack Applications**
-- 📚 Master **System Design & Architecture**
-- 🌟 Gain **1000+ GitHub Stars** across repositories
-- 💼 Land an **Internship** at a top tech company
-
----
 
 
 ---
