@@ -27,7 +27,7 @@ const rishav = {
 - 🌱 I'm currently learning **Advanced React Patterns & Microservices**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **MERN Stack, Web Development, or anything tech-related**
-- 📫 How to reach me: (mailto:rishav6787@gmail.com)**
+- 📫 How to reach me: rishav2592004@outook.com
 - ⚡ Fun fact: **I can turn coffee into code!** ☕➡️💻
 
 ---
