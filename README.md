@@ -27,7 +27,7 @@ const rishav = {
 - 🌱 I'm currently learning **Advanced React Patterns & Microservices**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **MERN Stack, Web Development, or anything tech-related**
-- 📫 How to reach me: **[Your Email](mailto:your.email@gmail.com)**
+- 📫 How to reach me: **[Your Email](mailto:rishav6787@gmail.com)**
 - ⚡ Fun fact: **I can turn coffee into code!** ☕➡️💻
 
 ---
@@ -83,15 +83,7 @@ const rishav = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-
-</div>
-
----
 
 
 ## 🌟 What I'm up to
