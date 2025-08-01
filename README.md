@@ -11,17 +11,7 @@
 
 ---
 
-## 🎓 About Me
 
-```typescript
-const rishav = {
-  education: "B.Tech in Computer Engineering",
-  university: "Thapar Institute of Engineering & Technology, Patiala",
-  passion: ["Full-Stack Development", "Web Applications", "Problem Solving"],
-  currentFocus: "Building scalable and user-friendly applications",
-  funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
-```
 
 - 🔭 I'm currently working on **Full-Stack Web Applications**
 - 🌱 I'm currently learning **Advanced React Patterns & Microservices**
