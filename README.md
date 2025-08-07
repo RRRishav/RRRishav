@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rishav!
+# 👋 Rishav Bhardwaj
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Computer+Engineering+Student;Always+Learning+New+Technologies" alt="Typing SVG" />
